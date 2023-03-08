@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/prince-udum/insure-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://responsive-insure-landing-page.netlify.app)
 
 ## My process
 
@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/prince-udum)
+- Frontend Mentor - [@prince-udum](https://www.frontendmentor.io/prince-udum)
 - Twitter - [@princeudum](https://www.twitter.com/princeudum)
